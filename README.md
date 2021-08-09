@@ -8,6 +8,6 @@ Projeto API Rest para controle de ponto e acesso dos usuários de uma empresa co
 
 
 
-# DOCUMENTAÇÂO
+# DOCUMENTAÇÃO
 
 ![http://localhost:8081/swagger-ui.html#/basic-error-controller](https://github.com/Jeffeanikulapo/liveDioSistemDePonto/blob/main/Capturar.JPG)
